@@ -1,6 +1,6 @@
 # Portfolio Profissional - Daniele Silva Santos 
 
-Este projeto consiste no desenvolvimento de um portfólio profissional centralizado, estruturado conforme as diretrizes da **TAP (Termo de Abertura de Projeto)**. O objetivo é exibir competências técnicas, projetos acadêmicos e experiências de formação voltadas ao desenvolvimento Full-Stack.
+Este projeto consiste no desenvolvimento de um portfólio profissional centralizado, estruturado conforme as diretrizes da **TAP (Termo de Abertura de Projeto)**. O objetivo é exibir competências técnicas, projetos acadêmicos e experiências de formação voltadas ao desenvolvimento FullStack.
 
 ## 📌 Links Rápidos
 - **Live Demo:** [Visualizar Portfólio](https://Daniele-SS.github.io/portfolio-profissional-DSS/)
