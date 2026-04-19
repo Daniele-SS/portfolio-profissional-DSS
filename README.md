@@ -2,10 +2,6 @@
 
 Este projeto consiste no desenvolvimento de um portfólio profissional centralizado, estruturado conforme as diretrizes da **TAP (Termo de Abertura de Projeto)**. O objetivo é exibir competências técnicas, projetos acadêmicos e experiências de formação voltadas ao desenvolvimento FullStack.
 
-## 📌 Links Rápidos
-- **Live Demo:** [Visualizar Portfólio](https://Daniele-SS.github.io/portfolio-profissional-DSS/)
-- **Documentação (Wiki):** [Acessar Wiki do Projeto](https://github.com/Daniele-SS/portfolio-profissional-DSS.wiki.git)
-
 ---
 
 ## 🛠️ Tecnologias e Metodologias
