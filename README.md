@@ -4,7 +4,7 @@ Este projeto consiste no desenvolvimento de um portfólio profissional centraliz
 
 ## 📌 Links Rápidos
 - **Live Demo:** [Visualizar Portfólio](https://Daniele-SS.github.io/portfolio-profissional-DSS/)
-- **Documentação (Wiki):** [Acessar Wiki do Projeto](https://github.com/Daniele-SS/portfolio-profissional-DSS/wiki)
+- **Documentação (Wiki):** [Acessar Wiki do Projeto](https://github.com/Daniele-SS/portfolio-profissional-DSS.wiki.git)
 
 ---
 
